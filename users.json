@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "first_name": "sopheak",
+        "last_name": "von",
+        "age": 20,
+        "province": "Kampong Chhnang",
+        "class" : "WEP A"
+    },
+    {
+        "id": 2,
+        "first_name": "sinet",
+        "last_name": "sem",
+        "age": 22,
+        "province": "Kampong Thom",
+        "class" : "WEP A"
+    },
+    {
+        "id": 3,
+        "first_name": "chanry",
+        "last_name": "chhoy",
+        "age": 23,
+        "province": "Kampong Thom",
+        "class" : "WEP A"
+    },
+    {
+        "id": 4,
+        "first_name": "sara",
+        "last_name": "vey",
+        "age": 21,
+        "province": "Banteay Mean Chey",
+        "class" : "WEP A"
+    },
+    {
+        "id": 5,
+        "first_name": "lanh",
+        "last_name": "phalla",
+        "age": 22,
+        "province": "Preah Vihea",
+        "class" : "WEP B"
+    },
+    {
+        "id": 6,
+        "first_name": "ronan",
+        "last_name": "ronaldo",
+        "age": 22,
+        "province": "Phnom Pneh",
+        "class" : "WEP A/B"
+    }
+
+]
